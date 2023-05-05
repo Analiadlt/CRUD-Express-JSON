@@ -1,0 +1,51 @@
+[
+  {
+    "id": "4",
+    "name": "Esfera de piedra",
+    "price": "400",
+    "description": "Hermosa esfera de piedra.",
+    "image": "https://cdn.pixabay.com/photo/2017/07/27/09/56/sphere-stone-2544690_1280.png"
+  },
+  {
+    "id": "2",
+    "name": "Sombreros hermosos!!",
+    "price": "400",
+    "description": "Originales sombreros de calidad excepcional.",
+    "image": "https://cdn.pixabay.com/photo/2017/06/23/18/25/hat-2435486_1280.png"
+  },
+  {
+    "id": "6",
+    "name": "Bicicleta macetero",
+    "price": "650",
+    "description": "Hermosa bicicleta antigua portamacetas",
+    "image": "https://cdn.pixabay.com/photo/2017/09/17/02/02/png-2757379_1280.png"
+  },
+  {
+    "id": "5",
+    "name": "Reloj fondo blanco",
+    "price": "5.000",
+    "description": "Reloj con números romanos",
+    "image": "https://cdn.pixabay.com/photo/2016/12/08/11/50/time-1891569_1280.png"
+  },
+  {
+    "id": "3",
+    "name": "Espejo cuadrado",
+    "price": "8.500",
+    "description": "Espejo con marco dorado",
+    "image": "https://cdn.pixabay.com/photo/2017/08/21/01/03/png-2663750_1280.png"
+  },
+  {
+    "id": "1",
+    "name": "Naranja grande",
+    "price": "100",
+    "description": "Naranja de alta calidad",
+    "image": "https://cdn.pixabay.com/photo/2016/02/23/17/40/fruit-1218154_1280.png"
+  },
+  {
+    "id": "c8226dfe-8697-4fd8-b6fe-4b97da4a60eb",
+    "name": "Partituras clásicas",
+    "price": "150.000",
+    "description": "Partituras compuestas para guitarra acústica.",
+    "image": "https://cdn.pixabay.com/photo/2023/03/25/12/06/music-7875782_1280.jpg"
+  }
+]
